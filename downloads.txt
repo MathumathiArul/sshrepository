@@ -15,8 +15,7 @@ https://github.com/
 https://gitforwindows.org/
 
 <<<<<<< HEAD
-5)change made
-in local repso
+5)change made for merge in local repso
 =======
 5)change made in remote repso
 
