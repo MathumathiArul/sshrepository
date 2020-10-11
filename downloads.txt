@@ -14,6 +14,11 @@ https://github.com/
 4)Download and Install git for your windows OS, just follow default check boxes while installation.
 https://gitforwindows.org/
 
+<<<<<<< HEAD
 5)change made
 in local repso
+=======
+5)change made in remote repso
+
+>>>>>>> 6aa9d8803e6eecaad587dd6a601466d51b7e43dd
 
