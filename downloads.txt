@@ -13,8 +13,7 @@ https://github.com/
 
 4)Download and Install git for your windows OS, just follow default check boxes while installation.
 https://gitforwindows.org/
-hello from local repos
-5) changes 
-5) hello from remote
+5) LCAL REPOSITORY CHANGe 
+
 
 
