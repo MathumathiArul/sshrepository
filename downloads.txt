@@ -13,13 +13,7 @@ https://github.com/
 
 4)Download and Install git for your windows OS, just follow default check boxes while installation.
 https://gitforwindows.org/
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-5)change made for merge in local repso
-=======
-5)change made in remote repso
-=======
+5)hello (change in remote)
 
 >>>>>>> 80acfd500db182fc1ea1977d043106179764f83d
 
